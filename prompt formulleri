@@ -1,0 +1,66 @@
+Prompt Nedir? ve Etkin Prompt Kullanımı
+
+Bugün sizlere yapay zekâ araçlarında etkin prompt kullanımının öneminden ve bunu nasıl en verimli şekilde yapabileceğinizden bahsedeceğim. Yapay zekâ modellerinden doğru, etkili ve yaratıcı sonuçlar almak için iyi tasarlanmış prompt’lar kullanmak çok önemlidir.
+Peki, bu konuyu nasıl ele alacağız? Üç ana başlık altında ilerleyeceğiz. İlk olarak "Prompt nedir ve neden önemlidir?" sorusunu yanıtlayacağız. Daha sonra "Temel İlkeler"e geçeceğiz ve etkili prompt yazmanın püf noktalarını konuşacağız. Son olarak, "Formüller ve Yöntemler"le konuyu zenginleştireceğiz.
+
+Şimdi ilk soruyla başlayalım: Prompt Nedir ve Neden Önemlidir?
+Öncelikle, "prompt" kavramını açıklayalım. Prompt, yapay zekâya verdiğiniz metin tabanlı bir komut veya girdi anlamına gelir. Yapay zekânın verdiği yanıt, bu girdinin netliğine ve kalitesine doğrudan bağlıdır. Eğer prompt belirsiz veya yetersizse, alınan çıktı da beklentiyi karşılamaz. Bu yüzden etkin bir prompt tasarımı, hem zamandan tasarruf etmenizi sağlar hem de öğrencileriniz için daha kaliteli çıktılar almanıza yardımcı olur.🕓
+Bu bölüm burada sona eriyor. Bir sonraki bölümde temel ilkelere ve formüllere geçeceğiz. Şimdilik hoşça kalın!
+
+Etkili bir prompt yazmak için aşağıdaki temel ilkeleri dikkate almalıyız:
+Bir Netlik : Prompt’unuz açık ve detaylı olmalıdır. Belirsiz ifadeler kullanmak yerine, yapay zekâya tam olarak ne istediğinizi belirtin. Örneğin:
+Yanlış: "Bir hikaye yaz."
+Doğru: "Bir bilim insanının Mars'ta yaşam formu keşfetme macerasını anlatan, 500 kelimelik bir hikaye yaz."
+2. Bağlam sağlama: Modelin doğru bir bağlamda çalışması için hedef çıktının uzunluğunu, formatını veya tonunu belirtin. Örneğin:
+"Yapay zekânın eğitimdeki etkileriyle ilgili 200 kelimelik resmi bir özet yaz."
+
+3. Anahtar kelimeler: Modele odaklanması gereken noktayı vurgulamak için anahtar kelimeler ekleyin. Örneğin: "eğitim", "teknoloji", "dijital dönüşüm" gibi terimler, modelin içeriğinizle uyumlu bir çıktı üretmesine yardımcı olur.
+
+4. Örnekler verme: Karmaşık çıktılar talep ettiğinizde, benzer bir örnek sunarak modeli daha iyi yönlendirebilirsiniz.
+
+Örneğin: "Bu modern ve ergonomik sandalye, uzun süreli kullanım için idealdir." gibi bir ürün açıklaması sunarak modelden benzer bir açıklama talep edebilirsiniz.
+5. Kısıtlamalar:  Üretkenlik için sınırlar koymak etkili olur. Örneğin:
+"En fazla 100 kelimeyle, umut temalı bir şiir yaz."
+
+
+
+ormüller ve Yöntemler🕓🕓
+
+Yapay zekâ ile iletişimde şu formüllerden yararlanabilirsiniz:
+
+1. Görev bağlam ve beklenen çıktı formülü
+
+"Yapay zekânın sağlık sektöründeki etkisini açıklayan 200 kelimelik bir yazı yaz."
+
+2. Soru ve kısıtlamalar formülü
+
+"İklim değişikliğinin nedenlerini açıkla. (En fazla 150 kelime.)"
+
+3. Etkin Kısıtlamalar formülü
+
+"Uzay ve zaman yolculuğu temalı bir bilim kurgu hikayesi yaz. Hikaye, 300 kelimeyi geçmesin."
+
+4. Rol Yapma formülü : Modeli belirli bir role sokarak çıktı almayı kolaylaştırabilirsiniz. Örneğin:
+
+"Sen bir dil uzmanısın. Aşağıdaki paragrafı incele ve yazım hatalarını düzelt."
+
+"Bir tarih öğretmeni gibi davran ve öğrencilere 19. yüzyıldaki sanayi devrimini anlatan kısa bir metin hazırla."
+
+Şimdi birkaç örnekle bu bilgileri daha somut hale getirelim. Doğru ve Yanlış Prompt Örnekleri üzerinden ilerleyelim.
+
+Yanlış prompt örnekleri:
+
+"Bir şiir yaz."
+
+"Eğitimle ilgili bir yazı yaz."
+
+Doğru prompt örnekleri:
+
+"Umut temalı, her biri 4 dizeden oluşan 4 kıtalık bir şiir yaz."
+
+"Eğitimde yapay zekânın rolü hakkında, avantajları ve dezavantajlarını tartışan 300 kelimelik bir yazı yaz."🕓
+
+Etkin prompt tasarımı, yapay zekâdan maksimum verim almanın anahtarıdır. Doğru bir yaklaşım, hem zamandan tasarruf etmenizi sağlar hem de daha kaliteli sonuçlar almanıza yardımcı olur. 
+Unutmayın: Yapay zekâya ne kadar doğru sorular sorarsak, o kadar doğru cevaplar alırız!
+
+
